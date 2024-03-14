@@ -1,0 +1,35 @@
+ul{list-style-type:none;}
+
+h3{
+    text-align: center;
+}
+a{text-decoration: none;
+display: block;
+background-color: black;
+color: white;
+width: 100px;
+padding: 6px;
+text-align: center;
+border: 2px solid white;border-radius: 5px;
+}
+
+a:hover{background-color: gainsboro;color:black;border: 2px dotted black;font-family: cursive;}
+
+h3{color:dimgrey;font-family: cursive;background-color: bisque;}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+}
+
+button{
+    text-align: center;
+    margin: 0 auto;
+}
